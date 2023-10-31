@@ -1,3 +1,4 @@
+# FROM node:latest AS development
 FROM node:latest
 WORKDIR /app
 COPY package.json ./

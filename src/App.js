@@ -7,15 +7,16 @@ function App() {
       <header className="App-header">
         <img src={logo} className="App-logo" alt="logo" />
         <p>
-          Hello World Docker Images
+          Hello Docker React
         </p>
+        <p>Islam</p>
         <a
           className="App-link"
           href="https://reactjs.org"
           target="_blank"
           rel="noopener noreferrer"
         >
-          Learn React And CI/CD 
+          Learn React And CI/CD And Docker
         </a>
       </header>
     </div>
